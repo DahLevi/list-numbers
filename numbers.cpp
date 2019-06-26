@@ -3,10 +3,9 @@
 //
 
 #include <iostream>
-using std::cout;
+using namespace std;
 
-void printNumbers {
-    for (int i = 0; i < 99; i++)
-        cout << i;
-    return 0;
+int main() {
+for (int i = 0; i < 99; i++)
+    cout << i;
 }
